@@ -1,0 +1,6 @@
+@FishingSpotsTracker_HostAddress = http://localhost:5078
+
+GET {{FishingSpotsTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
