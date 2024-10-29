@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FishingSpotsTracker.TESTS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8531048b5d63598d572ae6e76483e042c0f1132")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32f2801f16a1895d4010cd35763631f23470f1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FishingSpotsTracker.TESTS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FishingSpotsTracker.TESTS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
